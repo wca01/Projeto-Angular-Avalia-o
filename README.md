@@ -2,27 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
-## Development server
+Projeto de produtos para avaliação da capacitação JP 2023 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Abaixo evidência de métodos implementados:
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![db](https://github.com/wca01/Projeto-Angular-Avalia-o/assets/105304356/b51a9c4d-7f8a-43f2-bc63-070df89f3b9e)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![tela_cadastrar](https://github.com/wca01/Projeto-Angular-Avalia-o/assets/105304356/78ad837e-089e-4ba5-a27c-2756d3dc3a03)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+![tela_produtos](https://github.com/wca01/Projeto-Angular-Avalia-o/assets/105304356/a05374fe-8b06-4eff-a1c1-ebd036497c5c)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+Para rodar a aplicação:
+- Git clone o  repositório;
+- No terminal, execute NPM INSTALL e NPM RUN SERVER no diretório do projeto.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Projeto-Angular-Av2023
+  Nota: Necessário ter instalado o JSON-SERVER com API. Configuração de uso ja adicionado ao projeto.
