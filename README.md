@@ -13,8 +13,9 @@ Abaixo evidência de métodos implementados:
 ![tela_cadastrar](https://github.com/wca01/Projeto-Angular-Avalia-o/assets/105304356/78ad837e-089e-4ba5-a27c-2756d3dc3a03)
 
 
+![tela_produtos](https://github.com/wca01/Projeto-Angular-Avalia-o/assets/105304356/c81e0982-c7fe-4733-a5db-c77a7ec2b031)
 
-![tela_produtos](https://github.com/wca01/Projeto-Angular-Avalia-o/assets/105304356/a05374fe-8b06-4eff-a1c1-ebd036497c5c)
+
 
 
 Para rodar a aplicação:
