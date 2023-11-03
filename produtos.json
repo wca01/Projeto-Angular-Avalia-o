@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Rafael Ferreira",
+      "idade": 19,
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Lucas Ferreira",
+      "idade": 35,
+      "ativo": false
+    },
+    {
+      "nome": "213213",
+      "idade": 534645,
+      "ativo": true,
+      "id": 3
+    },
+    {
+      "nome": "Rafa",
+      "idade": 23333,
+      "ativo": true,
+      "id": 4
+    },
+    {
+      "nome": "Teste sweet alert",
+      "idade": 278,
+      "ativo": true,
+      "id": 5
+    },
+    {
+      "nome": "teste2",
+      "idade": 3,
+      "ativo": true,
+      "id": 6
+    }
+  ]
+}
