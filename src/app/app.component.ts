@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularAV2023';
+  title = 'AngularAV2023'; 
+  nomePai: string = 'Rafael';
+
+  buscaNome(): string {
+    return this.nomePai;
+  }
 }

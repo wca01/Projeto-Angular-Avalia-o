@@ -16,12 +16,12 @@ export class CadastrarProdutosComponent {
 
   produtoForm = new FormGroup({
     nome: new FormControl('', Validators.required),
-    idade: new FormControl(0),
+  
   });
 
   enviar() {
     const produto: Produto = this.produtoForm.value as Produto;
-    produto.ativo = true;
+    
 
     this.produtoService.cadastrarProduto(produto).subscribe(
       (result) => {
